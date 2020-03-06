@@ -1,0 +1,14 @@
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\bin\Debug\netcoreapp2.1\BooksApiComMongoDB.deps.json
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\bin\Debug\netcoreapp2.1\BooksApiComMongoDB.runtimeconfig.json
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\bin\Debug\netcoreapp2.1\BooksApiComMongoDB.runtimeconfig.dev.json
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\bin\Debug\netcoreapp2.1\BooksApiComMongoDB.dll
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.csprojAssemblyReference.cache
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.csproj.CoreCompileInputs.cache
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.RazorAssemblyInfo.cache
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.RazorAssemblyInfo.cs
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.AssemblyInfoInputs.cache
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.AssemblyInfo.cs
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.RazorTargetAssemblyInfo.cache
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\bin\Debug\netcoreapp2.1\BooksApiComMongoDB.pdb
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.dll
+C:\Users\giovanne.nascimento\source\repos\BooksApiComMongoDB\BooksApiComMongoDB\obj\Debug\netcoreapp2.1\BooksApiComMongoDB.pdb
